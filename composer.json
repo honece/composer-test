@@ -1,0 +1,12 @@
+{
+    "name": "honece/test",
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/honece/test"
+        }
+    ]
+}
